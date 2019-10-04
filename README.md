@@ -1,0 +1,11 @@
+# 🎁 GIP Chrome Extension 🎁
+ - Chrome (browswer) Extension to use when navigating any ecomerce site
+ - Put any URL that has a buy-CTA to start a checkout flow into a 'bucket(s)'
+ - Buckets can be quick personal shopping ideas or an upcoming/recurring event
+ - Users use the extension drop-down tray to quickly organize items
+ - Buckets can be created/auto-generated, but an NLP can ease this process with some automation
+ - Other users can quickly use the drop-down tray to enter their email to share a bucket, as well as a self-signup flow
+ - Weekly notifications to self-curate bucket contents to prevent stale URLs
+ - Price-change/history and stock alerts on bucketed URLs
+ - Checkout flow automation on (small) buckets to quickly buy and archive
+ - Tracking #'s on purchases? ehh
