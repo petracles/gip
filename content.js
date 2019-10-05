@@ -1,2 +1,0 @@
-// FUCK
-alert("hey shithead!")
