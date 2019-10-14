@@ -1,9 +1,0 @@
-{
-  "name": "GIP Chrome",
-  "version": "1.0",
-  "manifest_version": 2,
-  "browser_action": {
-      "default_popup": "index.html"
-  },
-  "content_security_policy": "script-src 'self' 'sha256-rv8Va4IQNNlke4Yc1dFzCBwf7jlSuBWzhISMnMni7e0='; object-src 'self'"
-}
